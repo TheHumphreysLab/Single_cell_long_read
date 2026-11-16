@@ -2,7 +2,7 @@
 
 This repository provides the codes used for analysis in the following manuscript.
 
-<strong>Single-nucleus long-read RNA sequencing unravels isoform-level regulation of gene expression in normal and acutely injured kidneys</strong></br>
+<strong>Single-nucleus long-read RNA sequencing reveals isoform usage shifts in mouse acute kidney injury</strong></br>
 *Yasuhiro Oda, Megan L. Noonan, Eryn E. Dixon, Haojia Wu, and Benjamin D. Humphreys*<br/>
 In submission.
 
